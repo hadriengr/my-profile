@@ -1,11 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 
-
-selector {
-	prop: valeur;
-}
-
 body {
 	background-color: rgb(240,240,240);
 	font-family: 'Lato', sans-serif;
